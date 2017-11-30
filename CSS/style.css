@@ -14,18 +14,39 @@ body {
     float: center;
     box-shadow: 10px 10px 5px grey;
 }
+
 .box-shadow {
     box-shadow: 10px 10px 5px grey;
 }
+
 .parallax-container3 {
     height: 750px;
     margin-bottom: 10px;
 }
 
-nav {
+
+/* nav {
     margin-top: 20px;
     margin-bottom: 20px;
     background-color: #747B78;
+} */
+
+.title-div {
+    height: 100px;
+    margin-top: 70px;
+    margin-bottom: 30px;
+}
+
+.headerTitle {
+    text-align: center;
+    font: bold 75px arial, sans-serif;
+    background-color: #2a2828;
+    color: transparent;
+    text-shadow: 2px 2px 3px rgba(255, 255, 255, 0.5);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    border: 1.5px solid rgba(114, 109, 109, 0.5);
 }
 
 h3 {
@@ -34,14 +55,14 @@ h3 {
     margin-left: 20px;
     font-family: 'Josefin Sans', sans-serif;
 }
+
 h4 {
     text-align: center;
     margin-top: 10px;
-    margin-bottom:75px; 
+    margin-bottom: 75px;
     margin-left: 180px;
     font-family: 'Josefin Sans', sans-serif;
-    text-shadow: 2px 2px 8px rgb(72, 71, 75)
-
+    text-shadow: 2px 2px 8px rgb(28, 28, 29)
 }
 
 .row {
@@ -60,4 +81,3 @@ h4 {
     margin-top: 20px;
     box-shadow: 15px 14px 11px -3px rgb(54, 54, 59);
 }
-
