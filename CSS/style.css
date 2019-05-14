@@ -10,6 +10,7 @@ html, body {
 .wrapper {
     background-image: url('../images2/flatStone_2.jpg');
     font-family: Arial;
+    margin: 0%;
     background-attachment: fixed;
     background-position: center center;
     background-repeat: repeat;
